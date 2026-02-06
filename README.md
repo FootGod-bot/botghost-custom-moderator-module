@@ -1,4 +1,4 @@
-# -Custom botghost moderator module.
+# Custom botghost moderator module.
 ## Steps:
 ### Step 1:
 Open the folder of the command you are adding.
