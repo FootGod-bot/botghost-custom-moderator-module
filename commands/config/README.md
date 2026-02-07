@@ -11,4 +11,10 @@ Change nothing else
 Add the volume  
 ## Step 2: Import the command
 Go to the first tab  
-Click import and insert the code  
+Click import and insert the code for the version you need under version. the current latest is CMD_d4c76352-39bf-46f3-92c4-11ba53401613  
+All done  
+## Explanition
+This command is the backbone of all commands, as it controls the settings for other commands.
+## Versions:
+Latest: CMD_d4c76352-39bf-46f3-92c4-11ba53401613  
+V1: CMD_d4c76352-39bf-46f3-92c4-11ba53401613
