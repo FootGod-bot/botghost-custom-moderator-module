@@ -1,4 +1,4 @@
-# /ban Command.
+# /unban Command.
 ## REQUIREMENTS
 To change the config of this command, the /config command is needed. The /ban command is needed to use this command, and if the user is not banned by said command, this WILL NOT WORK.
 ## Step 1: Import the command
